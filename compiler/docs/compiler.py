@@ -175,6 +175,7 @@ def pyrogram_api():
             get_history_count
             read_history
             iter_history
+            iter_messages
             send_poll
             vote_poll
             stop_poll
