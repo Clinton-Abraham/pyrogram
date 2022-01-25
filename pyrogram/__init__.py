@@ -17,8 +17,8 @@
 #  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
 
 __version__ = "1.3.6"
-__license__ = "GNU Lesser General Public License v3 or later (LGPLv3+)"
-__copyright__ = "Copyright (C) 2017-present Dan <https://github.com/delivrance>"
+__license__ = ""
+__copyright__ = ""
 
 from concurrent.futures.thread import ThreadPoolExecutor
 
