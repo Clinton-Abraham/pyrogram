@@ -16,7 +16,7 @@
 #  You should have received a copy of the GNU Lesser General Public License
 #  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
 
-__version__ = "𝙿𝚢𝚛𝚘𝚐𝚛𝚊𝚖 𝟷.𝟹.𝟼"
+__version__ = "1.3.6"
 __license__ = ""
 __copyright__ = ""
 
